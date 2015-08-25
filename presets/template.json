@@ -1,0 +1,201 @@
+{
+  "sections": [
+    {
+      "id": "hero-area",
+      "slug": "header",
+      "title": "Hero area",
+      "contents": {
+        "logo-1": "http://localhost:8888/wordpress/wp-content/uploads/2015/07/logo-2.png",
+        "logo-2": "http://localhost:8888/wordpress/wp-content/uploads/2015/07/logo-2.png",
+        "menu": "47",
+        "title": "An Explosion of Possibilities",
+        "description": "Lorem ipsum dolor sit amet, in mea nonumes dissentias dissentiunt,<br> pro te solet oratio iriure.\nCu sit consetetur.",
+        "button_link": "http://www.themefisher.com",
+        "button_text": "Download Now"
+      },
+      "settings": {
+        "banner_bg": "http://localhost:8888/wordpress/wp-content/uploads/2015/07/bg.jpg",
+        "banner-color": "",
+        "button-color": ""
+      }
+    },
+    {
+      "id": "Utility",
+      "slug": "content-2",
+      "title": "Utility",
+      "contents": {
+        "title": "We Build Fun Creative Mobile Products",
+        "description": "A Fast and easy way to share the products you buy that define you. Lorem ipsum dolor \nsit amet, consectetur adipisicing elit. Ut, veritatis?",
+        "image": "http://localhost:8888/wordpress/wp-content/uploads/2015/07/tab.png"
+      },
+      "settings": {
+        "background-color": "#70a8c1"
+      }
+    },
+    {
+      "id": "features",
+      "slug": "content-1",
+      "title": "About",
+      "contents": {
+        "title": "WE HAVE DIFFERENT SERVICES TO HELP YOU",
+        "description": "<p>The world is a dangerous place to live; not because of the people who are evil, but because of the people who dont do anything about it.The world is a dangerous place to live; not because of the people who are evil, but because of the people who dont do anything about it.</p>",
+        "image": "http://localhost:8888/wordpress/wp-content/uploads/2015/07/ipad.png",
+        "featured_items": [
+          {
+            "icon": "ion-laptop",
+            "title": "Responsive Design",
+            "description": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart"
+          },
+          {
+            "icon": "ion-ios-settings",
+            "title": "Easy Customization",
+            "description": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart"
+          },
+          {
+            "icon": "ion-ios-glasses-outline",
+            "title": "Notification Active",
+            "description": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart"
+          }
+        ]
+      },
+      "settings": {
+        "icon-color": "#dcd8d8"
+      }
+    },
+    {
+      "id": "showcase",
+      "slug": "content-3",
+      "title": "Showcase",
+      "contents": {
+        "title": "It’s everywhere ,It’s pure",
+        "description": "<p>Dont limit yourself. Many people limit themselves to what they think they can do. You can go as far as your mind lets you. What you believe, remember, you can achieve</p><p>Dont limit yourself. Many people limit themselves to what they think they can do. You can go as far as your mind lets you. What you believe, remember, you can achieve</p>",
+        "showcase_img_1": "http://localhost:8888/wordpress/wp-content/uploads/2015/07/macbook.png"
+      }
+    },
+    {
+      "id": "feature",
+      "slug": "content-4",
+      "title": "Feature",
+      "contents": {
+        "title": "Start Investing Today",
+        "description": "Unlimited deposits & withdrawls",
+        "items": [
+          {
+            "title": "Notification Active",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, in?",
+            "media": "ion-ios-ionic-outline"
+          },
+          {
+            "title": "Fully Responsive",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, in?",
+            "media": "ion-ios-checkmark-outline"
+          },
+          {
+            "title": "Well Documenation",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, in?",
+            "media": "ion-ios-plus-outline"
+          },
+          {
+            "title": "Well Documenation",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, in?",
+            "media": "ion-ios-plus-outline"
+          },
+          {
+            "title": "Well Documenation",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, in?",
+            "media": "ion-ios-plus-outline"
+          },
+          {
+            "title": "Well Documenation",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima, in?",
+            "media": "ion-ios-plus-outline"
+          }
+        ]
+      },
+      "settings": {
+        "hover-color": "#ba6f6f"
+      }
+    },
+    {
+      "id": "call-t-o-action",
+      "slug": "content-7",
+      "title": "Call TO Action",
+      "contents": {
+        "title": "Talk, message, share. In private or with groups.",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi assumenda reiciendis id eius, veritatis nemo",
+        "download_text": "Download Now",
+        "download_link": "http://www.themefisher.com",
+        "banner_bg": "http://localhost:8888/wordpress/wp-content/uploads/2015/07/cta.jpg"
+      }
+    },
+    {
+      "id": "pricing-table",
+      "slug": "pricing-table",
+      "title": "Pricing table",
+      "contents": {
+        "pricing": [
+          {
+            "highlight": false,
+            "title": "Basic",
+            "price": "$20/month",
+            "items": [
+              "Download",
+              "Free",
+              "Awesome"
+            ]
+          },
+          {
+            "highlight": true,
+            "title": "Standard",
+            "price": "$20/month",
+            "items": [
+              "Download",
+              "Free",
+              "Awesome"
+            ]
+          },
+          {
+            "highlight": false,
+            "title": "Pro",
+            "price": "$120/month",
+            "items": [
+              "Download",
+              "Free",
+              "Awesome",
+              "Lul Tuhin"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "Subscribtion",
+      "slug": "content-6",
+      "title": "Subscribtion",
+      "contents": {
+        "title": "Join Our Mailing List",
+        "description": "Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Nulla porttitor accumsan tincidunt.",
+        "subscription_form": "[mc4wp_form]"
+      },
+      "styles": {
+        "bg_image": ""
+      }
+    },
+    {
+      "id": "s_42146990",
+      "slug": "footer-1",
+      "title": "Footer",
+      "contents": {
+        "social": [
+          "http://facebook.com/themefisher",
+          "http://twitter.com/themefisher",
+          "http://linkedin.com/themefisher",
+          "http://behance.net/themefisher",
+          "http://dribbble.com/themefisher"
+        ],
+        "copyright": "Copyright &copy; 2015 <a href=\"http://www.themefisher.com\">Themefisher.com</a>, All Rights Reserved"
+      }
+    }
+  ],
+  "name": "Template"
+}
