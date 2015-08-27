@@ -164,6 +164,9 @@ require get_template_directory() . '/inc/customizer.php';
 require get_template_directory() . '/inc/jetpack.php';
 
 
+require get_template_directory() . '/inc/onepager.php';
+
+
 require_once(dirname(__FILE__)) . '/inc/plugins/tmg-activation.php';
 
 
