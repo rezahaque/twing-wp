@@ -14,21 +14,21 @@ return array(
         array(
           array('name'=>'title', 'value' => 'Downloads'),
           array('name'=>'counter', 'value' => '18000'),
-          array('name'=>'icon', 'type'=>'media','value'=>'ion-ios-cloud-download-outline'),
+          array('name'=>'icon', 'type'=>'icon','value'=>'ion-ios-cloud-download-outline'),
         ),
         array(
           array('name'=>'title', 'value' => 'Email Subscriber'),
           array('name'=>'counter', 'value' => '11000'),
-          array('name'=>'media', 'type'=>'media','value'=>'ion-ios-email-outline'),
+          array('name'=>'icon', 'type'=>'icon','value'=>'ion-ios-email-outline'),
         ),
         array(
           array('name'=>'title', 'value' => 'Color Style'),
           array('name'=>'counter', 'value' => '8000'),
-          array('name'=>'media', 'type'=>'media','value'=>'ion-ios-color-filter-outline'),
+          array('name'=>'icon', 'type'=>'icon','value'=>'ion-ios-color-filter-outline'),
         ),
         array(
           array('name'=>'title', 'value' => 'Project Completed'),
-          array('name'=>'media', 'type'=>'media','value'=>'ion-ios-box-outline'),
+          array('name'=>'icon', 'type'=>'icon','value'=>'ion-ios-box-outline'),
         ),
       )
     )
